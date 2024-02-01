@@ -1,0 +1,2 @@
+ewmh==0.1.6
+screeninfo==0.8
